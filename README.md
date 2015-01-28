@@ -6,7 +6,6 @@ Javascript Mac OS X Dock like menu
 * very small (~ 1KB)
 * no other libraries
 * simple html tags
-
 ```
 <ul id="dock">
 	<li><a data-icon="a" href="#">mail</a></li>
@@ -18,6 +17,5 @@ Javascript Mac OS X Dock like menu
 	<li><a data-icon="g" href="#">pinterest</a></li>
 	<li><a data-icon="h" href="#">feed</a></li>
 </ul>
-
 ```
 * attribute data-icon is icon glyph of font that set in style (please read index.html)
