@@ -6,7 +6,6 @@ Javascript Mac OS X Dock like menu
 * Very small (~ 1KB)
 * No other libraries (jQUery plug-in version is [egashira.jp](http://www.egashira.jp/2011/06/jquery-dock-plugin))
 * Simple html tags
-
 ```
 <ul id="dock">
 	<li><a data-icon="a" href="#">mail</a></li>
