@@ -4,7 +4,7 @@ Javascript Mac OS X Dock like menu
 ![dock image](dock.png)
 
 * Very small (~ 1KB)
-* No other libraries (jQUery plug-in version is [egashira.jp](http://www.egashira.jp/2011/06/jquery-dock-plugin))
+* No other libraries (jQuery plug-in version is [egashira.jp](http://www.egashira.jp/2011/06/jquery-dock-plugin))
 * Simple html tags
 ```
 <ul id="dock">
