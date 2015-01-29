@@ -1,3 +1,5 @@
+/* NO COPYRIGHTS OR LICENSES. DO WHAT YOU LIKE. */
+
 var min = 40;
 var max = 120;
 
